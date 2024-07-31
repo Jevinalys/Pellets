@@ -130,6 +130,13 @@
   width: 220px;
 }
 
+#trainingID{
+  padding-left:85px;
+}
+#trainingID1{
+  padding-left:11px;
+}
+
 /*--
     - Overlay
 ------------------------------------------*/
@@ -435,8 +442,8 @@ hr {
 
 /* line 181, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .section-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 70px;
 }
 
 /* line 185, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
@@ -3952,7 +3959,7 @@ hero-btn {
 .categories-area .single-cat .cat-icon span {
   color: #eb566c;
   font-size: 65px;
-  margin-bottom: 30px;
+  margin-bottom: 5px;
   display: block;
 }
 
